@@ -68,76 +68,6 @@ Caracter + probable: d
 Clave: 48
 Cadena descifrada: xMNI NBxGx MÑ vIFJExCBwtw xHx
 ------------------------------------------------------------
-Caracter + frecuente: x
-Caracter + probable: e
-Clave: 44
-Cadena descifrada: BPQM QFBKB PR zMJNIBGFAxA BLB
-------------------------------------------------------------
-Caracter + frecuente: x
-Caracter + probable: a
-Clave: 40
-Cadena descifrada: FTUP UJFÑF TV DPNQMFKJEBE FOF
-------------------------------------------------------------
-Caracter + frecuente: x
-Caracter + probable: o
-Clave: 55
-Cadena descifrada: qFGB Guqzq FH oByCxqvupnp qAq
-------------------------------------------------------------
-Caracter + frecuente: x
-Caracter + probable: l
-Clave: 51
-Cadena descifrada: uJKF KyuDu JL sFCGBuzytqt uEu
-------------------------------------------------------------
-Caracter + frecuente: x
-Caracter + probable: s
-Clave: 59
-Cadena descifrada: nBCx Cqnvn BD lxuytnrqmjm nwn
-------------------------------------------------------------
-Caracter + frecuente: x
-Caracter + probable: n
-Clave: 53
-Cadena descifrada: sHID IwsBs HJ qDAEzsxwror sCs
-------------------------------------------------------------
-Caracter + frecuente: x
-Caracter + probable: d
-Clave: 43
-Cadena descifrada: CQRN RGCLC QS ANKÑJCHGByB CMC
-------------------------------------------------------------
-Caracter + frecuente: m
-Caracter + probable: e
-Clave: 56
-Cadena descifrada: pEFA Ftpyp EG ñAxBwputomo pzp
-------------------------------------------------------------
-Caracter + frecuente: m
-Caracter + probable: a
-Clave: 52
-Cadena descifrada: tIJE JxtCt IK rEBFAtyxsps tDt
-------------------------------------------------------------
-Caracter + frecuente: m
-Caracter + probable: o
-Clave: 3
-Cadena descifrada: ftup ujfñf tv dpnqmfkjebe fof
-------------------------------------------------------------
-Caracter + frecuente: m
-Caracter + probable: l
-Clave: 63
-Cadena descifrada: jxyt ynjrj xz htqupjñnifi jsj
-------------------------------------------------------------
-Caracter + frecuente: m
-Caracter + probable: s
-Clave: 7
-Cadena descifrada: bpqm qfbkb pr 0mjnibgfa8a blb
-------------------------------------------------------------
-Caracter + frecuente: m
-Caracter + probable: n
-Clave: 1
-Cadena descifrada: hvwr wlhph vx frosñhmlgdg hqh
-------------------------------------------------------------
-Caracter + frecuente: m
-Caracter + probable: d
-Clave: 55
-Cadena descifrada: qFGB Guqzq FH oByCxqvupnp qAq
-------------------------------------------------------------
 Caracter + frecuente: h
 Caracter + probable: e
 Clave: 61
@@ -172,4 +102,74 @@ Caracter + frecuente: h
 Caracter + probable: d
 Clave: 60
 Cadena descifrada: mABw Bpmum AC kwtxsmqplil mvm
+------------------------------------------------------------
+Caracter + frecuente: w
+Caracter + probable: e
+Clave: 45
+Cadena descifrada: AOPL PEAJA OQ yLIMHAFEzwz AKA
+------------------------------------------------------------
+Caracter + frecuente: w
+Caracter + probable: a
+Clave: 41
+Cadena descifrada: ESTO TIENE SU COMPLEJIDAD EÑE
+------------------------------------------------------------
+Caracter + frecuente: w
+Caracter + probable: o
+Clave: 56
+Cadena descifrada: pEFA Ftpyp EG ñAxBwputomo pzp
+------------------------------------------------------------
+Caracter + frecuente: w
+Caracter + probable: l
+Clave: 52
+Cadena descifrada: tIJE JxtCt IK rEBFAtyxsps tDt
+------------------------------------------------------------
+Caracter + frecuente: w
+Caracter + probable: s
+Clave: 60
+Cadena descifrada: mABw Bpmum AC kwtxsmqplil mvm
+------------------------------------------------------------
+Caracter + frecuente: w
+Caracter + probable: n
+Clave: 54
+Cadena descifrada: rGHC HvrAr GI pCzDyrwvqñq rBr
+------------------------------------------------------------
+Caracter + frecuente: w
+Caracter + probable: d
+Clave: 44
+Cadena descifrada: BPQM QFBKB PR zMJNIBGFAxA BLB
+------------------------------------------------------------
+Caracter + frecuente: x
+Caracter + probable: e
+Clave: 44
+Cadena descifrada: BPQM QFBKB PR zMJNIBGFAxA BLB
+------------------------------------------------------------
+Caracter + frecuente: x
+Caracter + probable: a
+Clave: 40
+Cadena descifrada: FTUP UJFÑF TV DPNQMFKJEBE FOF
+------------------------------------------------------------
+Caracter + frecuente: x
+Caracter + probable: o
+Clave: 55
+Cadena descifrada: qFGB Guqzq FH oByCxqvupnp qAq
+------------------------------------------------------------
+Caracter + frecuente: x
+Caracter + probable: l
+Clave: 51
+Cadena descifrada: uJKF KyuDu JL sFCGBuzytqt uEu
+------------------------------------------------------------
+Caracter + frecuente: x
+Caracter + probable: s
+Clave: 59
+Cadena descifrada: nBCx Cqnvn BD lxuytnrqmjm nwn
+------------------------------------------------------------
+Caracter + frecuente: x
+Caracter + probable: n
+Clave: 53
+Cadena descifrada: sHID IwsBs HJ qDAEzsxwror sCs
+------------------------------------------------------------
+Caracter + frecuente: x
+Caracter + probable: d
+Clave: 43
+Cadena descifrada: CQRN RGCLC QS ANKÑJCHGByB CMC
 ------------------------------------------------------------
