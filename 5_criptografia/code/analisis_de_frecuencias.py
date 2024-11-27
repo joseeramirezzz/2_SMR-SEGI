@@ -71,7 +71,7 @@ def cal_clv_pro(ele_cad, ele_pro):
     # Salida: valor numérico que indica la clave (desplazamientos) del cifrado Cesar.
 
     global abc # La declaracion global indica que la variable abc existe fuera de la función
-    abc = list("abcdefghijklmnopqrstuvwxyz") # Lista con los elementos del abecedario
+    abc = list("abcdefghijklmnñopqrstuvwxyzABCDEFGHIJKLMNÑOPQRSTUVWXYZ1234567890") # Lista con los elementos del abecedario
     pos_ele_cad = abc.index(ele_cad) # Nos devuelve la posicion en la que se encuentra el elemento
     pos_ele_pro = abc.index(ele_pro)
     if pos_ele_cad > pos_ele_pro:
